@@ -42,6 +42,8 @@ Os exercícios são introdutórios, mas fundamentais para a construção de uma 
 -----
 <img width="574" height="53" alt="image" src="https://github.com/user-attachments/assets/d97222c0-bc19-4a4b-b35f-017dbc811922" />
 
+-----
+
 ## 💻 Como executar
 
 1. Certifique-se de ter o Python instalado
