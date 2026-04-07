@@ -36,11 +36,8 @@ Os exercícios são introdutórios, mas fundamentais para a construção de uma 
 ## 💻 Como executar
 
 1. Certifique-se de ter o Python instalado
-2. Execute qualquer exercício com:
-
-```bash
-python nome_do_arquivo.py
-```
+2. Baixe a pasta anexada
+3. Abra a pasta com Vscode e execute os códigos desejados
 
 ## 📚 Aprendizado
 
